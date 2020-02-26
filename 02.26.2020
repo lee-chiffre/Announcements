@@ -20,15 +20,16 @@ from source code. The issue with ElectrumX is with it being based on Python it r
 of dependencies. ElectrumX has numerous dependencies and each of those dependencies have
 dependencies of themselves and so on. The dependency tree is at a count of over 15 different
 dependencies. I already have the latest version of Python compiled from source and installed.
-1. I need a way I can download the source of ElectrumX and the dependency tree.  2. In a way
-that also verifies the integrity of those downloads. I dont think many of these python packages
-are even signed.  3. Then to be able to build ElectrumX and the needed dependencies from source
-on a computer that does not have connection to internet. Node2.0 does not connect to internet
-except for the Tor process. Torsocks is not an option here.  If I cannot build ElectrumX and
-the dependencies for it from source in a way that also verifies the integrity of the downloads
-then for security reasons I will not run it. If someone has a solution to this I will then run
-ElectrumX, and give you credit for the help. If you need me to pay bounty for this please reach
-out to me to negotiate on a price.
+1. I need a way I can download the source of ElectrumX and the dependency tree.  
+2. In a way that also verifies the integrity of those downloads. I dont think many of these
+python packages are even signed. 
+3. Then to be able to build ElectrumX and the needed dependencies from source on a computer
+that does not have connection to internet. Node2.0 does not connect to internet except for
+the Tor process. Torsocks is not an option here.
+If I cannot build ElectrumX and the dependencies for it from source in a way that also verifies
+the integrity of the downloads then for security reasons I will not run it. If someone has a
+solution to this I will then run ElectrumX, and give you credit for the help.
+If you need me to pay bounty for this please reach out to me to negotiate on a price.
 
 Anyone that wants to use Wasabi wallet can download it from here. But verify
 these links for yourself. Do not just trust me.  https://wasabiwallet.io/
