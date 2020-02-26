@@ -1,6 +1,6 @@
 The status of my electrum service and Node2.0
 
-The old server known as Node1 hosting Electrum  on .onion address 4yi77lkjgy4bwtj3.onion
+The old server known as Node1 hosting Electrum  on address 4yi77lkjgy4bwtj3.onion
 was recently retired. I retired this server for security reasons because Node2.0 is the new
 maintained server with higher security. Node2.0 has many more improvements with more details
 at https://github.com/lee-chiffre/server-list/blob/master/Node2.0/Node2.0-info.txt. The plan
