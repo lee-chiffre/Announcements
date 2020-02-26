@@ -27,6 +27,7 @@ python packages are even signed.
 3. Then to be able to build ElectrumX and the needed dependencies from source on a computer
 that does not have connection to internet. Node2.0 does not connect to internet except for
 the Tor process. Torsocks is not an option here.
+I will be running ElectrumX and the python dependencies in a venv virtual environment.
 If I cannot build ElectrumX and the dependencies for it from source in a way that also verifies
 the integrity of the downloads then for security reasons I will not run it. If someone has a
 solution to this I will then run ElectrumX, and give you credit for the help.
