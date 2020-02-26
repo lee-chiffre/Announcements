@@ -1,0 +1,27 @@
+The status of my electrum service and Node2.0
+
+The old server known as Node1 hosting Electrum  on .onion address 4yi77lkjgy4bwtj3.onion was recently retired. I retired this server for security reasons because Node2.0 is the new maintained server with higher security. Node2.0 has many more improvements with more details at https://github.com/lee-chiffre/server-list/blob/master/Node2.0/Node2.0-info.txt. The plan was to get ElectrumX to work on Node2.0. I have not yet with success got ElectrumX to install on Node2.0 in a way that is compliant with the standards for Node2.0. I also am not of full understanding with Python and Python packaging. So I seek help with ElectrumX installation. If you know the solution please let me know and I will get ElectrumX running again and will give you credit. Until then Node2.0 can still be used with wallets that work with full nodes. One of the wallets that work with full node is Wasabi wallet. I also recommend Wasabi wallet over Electrum for privacy reasons. Wasabi wallet is also a reproducible build which means you dont have to compile it yourself to trust it. Wasabi also works with the most common hardware wallets. Yes I am recommending Wasabi over Electrum. But I still puruse ElectrumX service for Electrum users as an option who wish to use my node.
+
+ElectrumX help
+I only run software on Node2.0 that is reproducible build or that I can compile from source code. The issue with ElectrumX is with it being based on Python it requires alot of dependencies. ElectrumX has numerous dependencies and each of those dependencies have dependencies of themselves and so on. The dependency tree is at a count of over 15 different dependencies. I already have the latest version of Python compiled from source and installed.
+1. I need a way I can download the source of ElectrumX and the dependency tree.
+2. In a way that also verifies the integrity of those downloads. I dont think many of these python packages are even signed.
+3. Then to be able to build ElectrumX and the needed dependencies from source on a computer that does not have connection to internet. Node2.0 does not connect to internet except for the Tor process. Torsocks is not an option here. 
+If I cannot build ElectrumX and the dependencies for it from source in a way that also verifies the integrity of the downloads then for security reasons I will not run it. If someone has a solution to this I will then run ElectrumX, and give you credit for the help. If you need me to pay bounty for this please reach out to me to negotiate on a price.
+
+Anyone that wants to use Wasabi wallet can download it from here. But verify these links for yourself. Do not just trust me.
+https://wasabiwallet.io/
+http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion
+
+If you want to use my Bitcoin full node these are the addresses. I do not yet know if Wasabi works with the newer version 3 hidden service addresses. I am going to confirm that.
+Node2.0
+zztaegcitdl7bar4.onion
+pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion
+
+My next focus for Node2.0 is lightning network router and joinmarket. If I can get Torsocks to compile I also want to setup a Monero node. Depending on CPU load after lightning network and joinmarket I might use a seperate computer for Monero node.
+
+Donation address updated
+https://github.com/lee-chiffre/profile/blob/master/donation%20addresses.txt
+
+My mission statement
+https://github.com/lee-chiffre/profile/blob/master/mission%20statement.txt
