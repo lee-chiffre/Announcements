@@ -34,12 +34,15 @@ solution to this I will then run ElectrumX, and give you credit for the help.
 If you need me to pay bounty for this please reach out to me to negotiate on a price.
 
 Anyone that wants to use Wasabi wallet can download it from here. But verify
-these links for yourself. Do not just trust me.  https://wasabiwallet.io/
-http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion
+these links for yourself. Do not just trust me.
+clearnet website https://wasabiwallet.io/ 
+secure website http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion
 
 If you want to use my Bitcoin full node these are the addresses. I do not yet know if Wasabi
-works with the newer version 3 hidden service addresses. I am going to confirm that.  Node2.0
-zztaegcitdl7bar4.onion pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion
+works with the newer version 3 hidden service addresses. I am going to confirm that soon. 
+Node2.0
+zztaegcitdl7bar4.onion 
+pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion
 
 My next focus for Node2.0 is lightning network router and joinmarket. If I can get Torsocks to
 compile I also want to setup a Monero node. Depending on CPU load after lightning network and
