@@ -1,0 +1,11 @@
+Weekly blockchain backups
+Node2.0 was offline for a few hours this week to do a full blockchain backup from genesis block. I am backing up the blockchain weekly at a random time. Each backup going forward should not take more than 15 minutes of downtime a week. Backup drive is kept with the "doomsday node" in a waterproof fireproof EMP proof case.
+
+Electrumx server coming very soon
+I found out how to build electrumx and the dependency tree from source. It is now installed on Node2.0 but not yet active. I am configuring electrumx this weekend and will start the sync. When the electrumx sync is completed I will post another announcement.
+
+"Doomsday Node"
+Description- Coming soon. This is a dedicated offline laptop with a drive of a weekly full blockchain backup stored in a fireproof waterproof and EMP proof case. To continue bitcoin operations if there is a global disaster.
+
+Node03 will be set up after I start writing the-node-operators-manual. Node03 will be a test of my documentation and will run along side Node2.0 
+https://github.com/lee-chiffre/the-node-operators-manual 
