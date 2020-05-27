@@ -1,0 +1,8 @@
+Today I did a full blockchain backup.
+
+I halted the sync on electrumx service because it was taking too long. Estimated time of almost 2 months total. I am going to try out a  electrum service implemented in rust.
+See here for details https://github.com/romanz/electrs
+
+After electrum service I am going to try out lightning network router and write up the Node Operators Manual.
+This manual will go in depth how to assemble node hardware. Compile the operating system. Update the OS and compile all the software. How to setup bitcoin services and enforce all traffic through tor. With many more things included.
+
